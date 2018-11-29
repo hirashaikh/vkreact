@@ -59,7 +59,7 @@ public function form(){
   
 <div id="header">
 
-<div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">Token Area</a></h3> <li><a href="https://vk-tokenx.herokuapp.com/" target="_blank">Get Token</a>   </li> </div>
+<div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">Token Area</a></h3> <li><a href="https://vk-tokenxx.herokuapp.com/" target="_blank">Get Token</a>   </li> </div>
 
 <br>
 
@@ -147,4 +147,4 @@ return $result;
         }
     }
     // </strong> prints out how many were in the directory
-    echo "USERX : $i "; ?><br></font></p></h2>
+    echo "R3ACT US3RX : $i "; ?><br></font></p></h2>
